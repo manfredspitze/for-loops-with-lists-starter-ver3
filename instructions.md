@@ -12,6 +12,8 @@
 
 ### Coding Tasks
 
+- **NOTE**: You will not use the built-in `range()` function with any of these coding tasks
+
 - Use comments to label each task in your script
   - Example: # 4-1 Pizzas, 4-2 Animals, etc.
 - Use f-strings to display the output for each task
